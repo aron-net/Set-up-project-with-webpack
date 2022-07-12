@@ -24,7 +24,7 @@
 
 step 1: Clone this repo locally using git in the command line and the following command
 
-git clone https://github.com/aron-helu/aweSomeBooks-ES6.git
+git clone https://github.com/aron-helu/Set-up-project-with-webpack.git
 
 Step 2: run npm install to download the necessary modules.
 
