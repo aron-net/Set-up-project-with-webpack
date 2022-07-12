@@ -26,9 +26,9 @@ step 1: Clone this repo locally using git in the command line and the following 
 
 git clone https://github.com/aron-helu/Set-up-project-with-webpack.git
 
-Step 2: run npm install to download the necessary modules.
+Step 2: run **npm install** to download the necessary modules.
 
-step 3: run npm build to load the project in your broswer.
+step 3: run **npm build** to load the project in your broswer.
 
 ### Prerequisites
 
